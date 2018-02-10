@@ -178,5 +178,5 @@ let date = new Date(),
 	date2 = new Date('Feb 09 2010 17:56:50 GMT-0600');
 
 
-console.log(msToDateObj(date - date2));
-console.log(msToExpandDateObj(date - date2));
+// console.log(msToDateObj(date - date2));
+// console.log(msToExpandDateObj(date - date2));
